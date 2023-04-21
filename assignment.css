@@ -1,0 +1,86 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+.education-section {
+    display: flex;
+    padding: 15px;
+}
+
+.education-container {
+    display: flex;
+}
+
+.interest-section {
+    display: flex;
+
+
+}
+
+.intrest-paragraph {
+    margin-bottom: 350px;
+    font-size: 45px;
+    padding: 14px;
+}
+
+.awards-items {
+    display: flex;
+    justify-content: space-between;
+}
+
+.awards-section {
+    display: flex;
+}
+
+.work-description {
+    padding-left: 20px;
+}
+
+.work-heading {
+    font-size: 20px;
+}
+
+.work-section {
+    display: flex;
+
+
+}
+
+.work-paragraph {
+    display: flex;
+}
+
+.profile-section {
+    display: flex;
+}
+
+* {
+    margin: 4px;
+}
+
+.lines {
+    color: #000066;
+    border: solid 2px;
+    margin-left: 100px;
+}
+
+.bg-container {
+    background-color: #ff9999;
+
+    color: #000066;
+}
+
+.paragraph {
+    padding: 15px;
+    font-family: "Roboto";
+}
+
+.profile-container {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+}
+
+.icon-profile {
+    padding-right: 15px;
+    padding-left: 40px;
+}
